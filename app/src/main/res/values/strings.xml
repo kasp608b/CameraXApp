@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraX App</string>
+    <string name="switch_back">back</string>
+    <string name="switch_front">front</string>
+</resources>
